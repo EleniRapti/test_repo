@@ -1,4 +1,2 @@
 # test_repo
-fbhm,kjgfdf
-fdxhjjfdxhjgvk
-sdfjfhnj
+this is a test repo
